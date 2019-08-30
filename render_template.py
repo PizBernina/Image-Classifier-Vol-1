@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     if request.method == 'GET':
         # show the upload form
-        return render_template('home.html')
+        return render_template('home_page.html')
 
     if request.method == 'POST':
         # TODO: Logic to process uploaded images
@@ -29,4 +29,4 @@ def predict(filename):
 
 @app.errorhandler(500)
 def server_error(error):
-    return render_template('error.html'), 500
+    return render_template('error_page.html'), 500
