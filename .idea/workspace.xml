@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d28995c-82f9-4a5e-82b3-765bd5957b87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/error_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/error_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/results_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/error_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/error_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/results_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/results_page.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,26 +51,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/results_page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="238">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/app.css">
+        <entry file="file://$PROJECT_DIR$/templates/results_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -80,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/error_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="68">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -89,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -122,6 +111,10 @@
         <option value="$PROJECT_DIR$/static/home_page.html" />
         <option value="$PROJECT_DIR$/render_template.py" />
         <option value="$PROJECT_DIR$/static/app.css" />
+        <option value="$PROJECT_DIR$/templates/error_page.html" />
+        <option value="$PROJECT_DIR$/templates/home_page.html" />
+        <option value="$PROJECT_DIR$/templates/layout.html" />
+        <option value="$PROJECT_DIR$/templates/results_page.html" />
       </list>
     </option>
   </component>
@@ -148,6 +141,11 @@
               <item name="Classifier Vol 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Classifier Vol 1" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classifier Vol 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Classifier Vol 1" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +207,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567176638773</updated>
       <workItem from="1567176639886" duration="4489000" />
-      <workItem from="1567334689938" duration="39000" />
+      <workItem from="1567334689938" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="front-end, html template">
       <created>1567177459590</created>
@@ -236,7 +234,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4528000" />
+    <option name="totallyTimeSpent" value="4786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="828" extended-state="6" />
@@ -256,7 +254,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32998565" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32998565" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -297,6 +295,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/render_template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -304,38 +309,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/results_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/error_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/app.css">
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/results_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
